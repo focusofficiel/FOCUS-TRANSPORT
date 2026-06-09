@@ -1,9 +1,3 @@
-// ════════════════════════════════════════════════════════════
-//  FOCUS TRANSPORT — Google Apps Script
-//  Copiez ce code dans script.google.com (nouveau projet)
-//  puis cliquez "Déployer → Nouvelle application web"
-// ════════════════════════════════════════════════════════════
-
 const SHEET_NAME_BOOKINGS = 'Réservations';
 const SHEET_NAME_SUBS     = 'Abonnements';
 
