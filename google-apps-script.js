@@ -1,3 +1,5 @@
+// ════════════════════════════════════════════════════════════
+
 const SHEET_NAME_BOOKINGS = 'Réservations';
 const SHEET_NAME_SUBS     = 'Abonnements';
 
